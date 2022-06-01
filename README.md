@@ -58,5 +58,7 @@ opencv-python==3.4.2
 
 时间：2022.06.01
 
+推销下我开的结构光课程：[从零搭建一套结构光3D重建系统 [理论+源码+实践]](https://www.bilibili.com/video/BV1V64y1h7LW/)
+
 
 
